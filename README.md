@@ -1,2 +1,2 @@
-# DWDM - WEB-Scrapping Project- Scrap-Quote-from-Website
+# DWDM - WEB-Scrapping Project- Scrap Quote from Website
 Public
